@@ -3,9 +3,7 @@ const Footer = () => {
 
         < footer className="footer mt-auto py-3 bg-dark" >
             <div className="container">
-                <p className="text-light">App desenvolvido por <a href="https://github.com/Jose-Leite" target="_blank" rel="noreferrer">José Carlos Leite</a></p>
-                <p className="text-light"><small><strong>Semana Spring React</strong><br />
-                    Evento promovido pela escola DevSuperior: <a href="https://instagram.com/devsuperior.ig" target="_blank" rel="noreferrer">@devsuperior.ig</a></small></p>
+                <p className="text-light">© 2021 thinkcircular.com. Todos os direitos reservados.</p>
             </div>
         </footer >
 

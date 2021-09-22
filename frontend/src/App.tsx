@@ -6,6 +6,7 @@ import DonutChart from "components/DonutChart";
 import Tree from "components/Tree";
 import Co2 from "components/Co2";
 import Water from "components/Water";
+import Cont from "components/Contribution";
 
 function App() {
   return (
@@ -28,6 +29,10 @@ function App() {
 
         <div className="py-3">
           <h2 className="text-center text-primary">Contribuição da Plataforma para a Natureza</h2>
+        </div>
+
+        <div className="col-sm-12 center px-2 py-2">
+          <Cont />
         </div>
 
          <div className="row px-3">
