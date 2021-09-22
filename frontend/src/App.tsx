@@ -52,7 +52,7 @@ function App() {
         </div>
 
         <div className="py-3">
-          <h2 className="text-center text-primary">Dados de Reciclagem</h2>
+          <h2 className="text-center text-primary">Volumes de Reciclagem</h2>
         </div>
 
         <DataTable />
