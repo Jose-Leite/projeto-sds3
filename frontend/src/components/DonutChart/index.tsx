@@ -3,7 +3,7 @@ import Chart from 'react-apexcharts';
 const DonutChart = () => {
 
     const mockData = {
-        series: [10.624, 1.487, 0.000, 1.672, 18.155, 373.083, 706.540, 0.000, 0.000, 0.000, 12.284],
+        series: [11.399, 1.487, 0.000, 1.672, 23.691, 471.747, 808.501, 0.184, 0.000, 0.000, 12.284],
         labels: ['Codel', 'Ecobras', 'Ecodescarte', 'EcoTI - BA', 'EcoTI - SE', 'Natal', 'Reciclo', 'Reeecicle', 'Sete Ambiental', 'WEEE', 'Zero Impacto']
     }
     
