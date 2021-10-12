@@ -1,11 +1,10 @@
 import Chart from 'react-apexcharts';
 
-const BarOTs = () => {
+const BarReciclMensal = () => {
 
     const options = {
         plotOptions: {
             bar: {
-                borderRadius: 10,
                 dataLabels: {
                   position: 'botton', // top, center, bottom
                 },
@@ -17,12 +16,12 @@ const BarOTs = () => {
     
     const mockData = {
         labels: {
-            categories: ['Codel', 'Ecobras', 'Ecodescarte', 'EcoTI - BA', 'EcoTI - SE', 'Natal', 'Reciclo', 'Reeecicle', 'Sete Ambiental', 'WEEE', 'Zero Impacto']
+            categories: ['Jan', 'Fev', 'Mar', 'Abr', 'Mai', 'Jun', 'Jul', 'Ago', 'Set', 'Out', 'Nov', 'Dez']
         },
         series: [
             {
-                name: "OT's Abertas",
-                data: [9, 0, 37, 24, 12, 70, 190, 30, 0, 0, 65]                  
+                name: "Kg Reciclados",
+                data: [26339, 86612, 92991, 141914, 165458, 219052, 188713, 194794, 215092, 0, 0, 0]                  
             }
         ]
     };
@@ -31,7 +30,7 @@ const BarOTs = () => {
         <Chart 
             options={{ ...options, xaxis: mockData.labels}}
             series={mockData.series}
-            title="Ordens de Transporte (OTs)"
+            title="Volumes Reciclados por Mês"
             type="bar"
             height="300"
         />
@@ -40,4 +39,4 @@ const BarOTs = () => {
     );
 }
 
-export default BarOTs;
+export default BarReciclMensal;

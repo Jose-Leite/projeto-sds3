@@ -10,6 +10,8 @@ import Cont from "components/Contribution";
 import BarOTs from "components/BarOTs";
 import BarOSs from "components/BarOSs";
 import BarODs from "components/BarODs";
+import PlanilhaM from "components/PlanilhaM";
+import BarReciclMensal from "components/BarReciclMensal";
 
 function App() {
   return (
@@ -21,7 +23,7 @@ function App() {
         <div className="row px-3">
 
           <div className="col-sm-6">
-            <h5 className="text-center text-secondary">Volume Reciclado (Ton)</h5>
+            <h5 className="text-center text-secondary">Volume Reciclado por Reciclador(Ton)</h5>
             <BarChart />
           </div>
           <div className="col-sm-6">
@@ -30,6 +32,20 @@ function App() {
           </div>
         </div>
 
+        <div className="row px-3">
+
+          <div className="col-sm-12">
+            <PlanilhaM />
+          </div>
+        </div>
+
+        <div className="row px-4" >
+          <div className="col-sm-12">
+            <h5 className="text-center text-secondary">Volume Reciclado por Mês</h5>
+            <BarReciclMensal />
+          </div>
+        </div>
+        
         <div className="py-3">
           <h2 className="text-center text-primary">Quantidade de Ordens Abertas</h2>
         </div>
