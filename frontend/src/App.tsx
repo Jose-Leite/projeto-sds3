@@ -12,6 +12,8 @@ import BarOSs from "components/BarOSs";
 import BarODs from "components/BarODs";
 import PlanilhaM from "components/PlanilhaM";
 import BarReciclMensal from "components/BarReciclMensal";
+import PlanilhaRcb from "components/PlanilhaRcb";
+import BarRecbMensal from "components/BarRecbMensal";
 
 function App() {
   return (
@@ -42,6 +44,19 @@ function App() {
         <div className="row px-4" >
           <div className="col-sm-12">
             <h5 className="text-center text-secondary">Volume Reciclado por Mês</h5>
+            <BarReciclMensal />
+          </div>
+        </div>
+        <div className="row px-3">
+
+          <div className="col-sm-12">
+            <PlanilhaRcb />
+          </div>
+        </div>
+
+        <div className="row px-4" >
+          <div className="col-sm-12">
+            <h5 className="text-center text-secondary">Volume Recebido por Mês</h5>
             <BarReciclMensal />
           </div>
         </div>
