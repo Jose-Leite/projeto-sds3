@@ -57,7 +57,7 @@ function App() {
         <div className="row px-4" >
           <div className="col-sm-12">
             <h5 className="text-center text-secondary">Volume Recebido por Mês</h5>
-            <BarReciclMensal />
+            <BarRecbMensal />
           </div>
         </div>
         

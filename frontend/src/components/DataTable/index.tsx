@@ -110,12 +110,12 @@ const DataTable = () => {
                         <td> </td>
                     </tr>
                     <tr>
-                        <td>T O T A I S</td>
-                        <td>687</td>
-                        <td>2.638</td>
-                        <td>1.024</td>
-                        <td>302.807,289</td>
-                        <td>1.676.187,176</td>
+                        <th>T O T A I S</th>
+                        <th>687</th>
+                        <th>2.638</th>
+                        <th>1.024</th>
+                        <th>302.807,289</th>
+                        <th>1.676.187,176</th>
                     </tr>
                 </thead>
                 <tbody>
