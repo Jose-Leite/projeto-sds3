@@ -19,7 +19,7 @@ const DataTable = () => {
                         <td>106</td>
                         <td>264</td>
                         <td>12.075,747</td>
-                        <td>24.092,411</td>
+                        <td>24.430,722</td>
                     </tr>
                     <tr>
                         <td>Ecobras</td>
@@ -67,7 +67,7 @@ const DataTable = () => {
                         <td>1.042</td>
                         <td>639</td>
                         <td>73.954,027</td>
-                        <td>1.064.755,615</td>
+                        <td>1.068.458,899</td>
                     </tr>
                     <tr>
                         <td>Reeecicle</td>
@@ -99,7 +99,7 @@ const DataTable = () => {
                         <td>214</td>
                         <td>20</td>
                         <td>30.997,927</td>
-                        <td>13.654,470</td>
+                        <td>17.175,910</td>
                     </tr>
                     <tr>
                         <td> </td>
@@ -115,7 +115,7 @@ const DataTable = () => {
                         <th>3.089</th>
                         <th>1.197</th>
                         <th>350.272,510</th>
-                        <th>1.836.045,215</th>
+                        <th>1.843.608,290</th>
                     </tr>
                 </thead>
                 <tbody>
