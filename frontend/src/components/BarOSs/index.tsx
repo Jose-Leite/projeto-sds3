@@ -17,12 +17,12 @@ const BarOSs = () => {
     
     const mockData = {
         labels: {
-            categories: ['Codel', 'Ecobras', 'Ecodescarte', 'EcoTI - BA', 'EcoTI - SE', 'Natal', 'Reciclo', 'Reeecicle', 'Sete Ambiental', 'WEEE', 'Zero Impacto']
+            categories: ['BDPWaste', 'Codel', 'Ecobras', 'Ecodescarte', 'EcoTI - BA', 'EcoTI - SE', 'Natal', 'Reciclo', 'Reeecicle', 'Sete Ambiental', 'WEEE', 'Zero Impacto']
         },
         series: [
             {
                 name: "OS's Abertas",
-                data: [126, 8, 6, 32, 135, 1316, 1090, 191, 306, 0, 245]                  
+                data: [1, 132, 8, 6, 35, 140, 1386, 1126, 206, 350, 0, 283]                  
             }
         ]
     };

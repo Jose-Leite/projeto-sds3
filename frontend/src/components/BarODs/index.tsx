@@ -17,12 +17,12 @@ const BarODs = () => {
     
     const mockData = {
         labels: {
-            categories: ['Codel', 'Ecobras', 'Ecodescarte', 'EcoTI - BA', 'EcoTI - SE', 'Natal', 'Reciclo', 'Reeecicle', 'Sete Ambiental', 'WEEE', 'Zero Impacto']
+            categories: ['BDPWaste', 'Codel', 'Ecobras', 'Ecodescarte', 'EcoTI - BA', 'EcoTI - SE', 'Natal', 'Reciclo', 'Reeecicle', 'Sete Ambiental', 'WEEE', 'Zero Impacto']
         },
         series: [
             {
                 name: "OD's Abertas",
-                data: [311, 9, 0, 19, 48, 229, 691, 1, 4, 0, 20]                  
+                data: [0, 330, 9, 0, 25, 52, 236, 723, 1, 5, 0, 27]                  
             }
         ]
     };

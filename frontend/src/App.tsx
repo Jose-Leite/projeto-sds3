@@ -14,6 +14,8 @@ import PlanilhaM from "components/PlanilhaM";
 import BarReciclMensal from "components/BarReciclMensal";
 import PlanilhaRcb from "components/PlanilhaRcb";
 import BarRecbMensal from "components/BarRecbMensal";
+import MetaR from "components/MetaR";
+import MetaV from "components/MetaV";
 
 function App() {
   return (
@@ -34,6 +36,24 @@ function App() {
           </div>
         </div>
 
+        <h3 className="text-center text-primary py-3">Atingimento das Metas 2022</h3>
+
+        <div className="row px-3">
+
+          <div className="col-sm-6">
+            <h4 className="text-center text-secondary">Novos Recicladores na Plataforma</h4>
+            <h5 className="text-center text-secondary">(Meta = 14)</h5>
+            <MetaR />
+          </div>
+          <div className="col-sm-6">
+            <h4 className="text-center text-secondary">Volume de REEE coletado</h4>
+            <h5 className="text-center text-secondary">(Meta = 7.700.000 Kg)</h5>
+            <MetaV />
+          </div>
+        </div>
+
+        <h3 className="text-center text-primary py-3">Volumes Recebidos/Processados</h3>
+        
         <div className="row px-3">
 
           <div className="col-sm-12">
@@ -62,7 +82,7 @@ function App() {
         </div>
         
         <div className="py-3">
-          <h2 className="text-center text-primary">Quantidade de Ordens Abertas</h2>
+          <h3 className="text-center text-primary">Quantidade de Ordens Abertas</h3>
         </div>
 
         <div className="row px-3">
@@ -85,7 +105,7 @@ function App() {
         </div>
 
         <div className="py-3">
-          <h2 className="text-center text-primary">Contribuição da Plataforma para a Natureza</h2>
+          <h3 className="text-center text-primary">Contribuição da Plataforma para a Natureza</h3>
         </div>
 
         <div className="col-sm-12 px-25 py-2">
@@ -109,7 +129,7 @@ function App() {
         </div>
 
         <div className="py-3">
-          <h2 className="text-center text-primary">Volumes de Reciclagem</h2>
+          <h3 className="text-center text-primary">Volumes de Reciclagem</h3>
         </div>
 
         <DataTable />
