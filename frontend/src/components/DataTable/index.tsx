@@ -9,7 +9,7 @@ const DataTable = () => {
                         <th>OT's</th>
                         <th>OS's</th>
                         <th>OD's</th>
-                        <th>Estoque em 30/04/22 (Kg)</th>
+                        <th>Estoque em 31/05/22 (Kg)</th>
                         <th>Peso Reciclado (Kg)</th>
                         
                     </tr>
@@ -23,11 +23,11 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>Codel</td>
-                        <td>74</td>
-                        <td>168</td>
-                        <td>432</td>
-                        <td>10.452,530</td>
-                        <td>36.963,069</td>
+                        <td>86</td>
+                        <td>184</td>
+                        <td>450</td>
+                        <td>12.536,676</td>
+                        <td>39.233,374</td>
                     </tr>
                     <tr>
                         <td>Ecobras</td>
@@ -48,34 +48,34 @@ const DataTable = () => {
                     <tr>
                         <td>EcoTI - BA</td>
                         <td>24</td>
-                        <td>45</td>
-                        <td>32</td>
-                        <td>14.852,882</td>
-                        <td>7.100,271</td>
+                        <td>49</td>
+                        <td>39</td>
+                        <td>16.954,135</td>
+                        <td>8.260,090</td>
                     </tr>
                     <tr>
                         <td>EcoTI - SE</td>
                         <td>14</td>
                         <td>158</td>
                         <td>52</td>
-                        <td>97.937,123</td>
+                        <td>135.928,093</td>
                         <td>25.500,530</td>
                     </tr>
                     <tr>
                         <td>Natal</td>
-                        <td>233</td>
-                        <td>1.761</td>
-                        <td>304</td>
-                        <td>103.838,907</td>
-                        <td>932.841,977</td>
+                        <td>259</td>
+                        <td>1.929</td>
+                        <td>315</td>
+                        <td>97.589,190</td>
+                        <td>971.406,952</td>
                     </tr>
                     <tr>
                         <td>Reciclo</td>
-                        <td>517</td>
-                        <td>1.313</td>
-                        <td>911</td>
-                        <td>74.979,732</td>
-                        <td>1.314.419,309</td>
+                        <td>567</td>
+                        <td>1.387</td>
+                        <td>982</td>
+                        <td>59.758,842</td>
+                        <td>1.385.298,239</td>
                     </tr>
                     <tr>
                         <td>Reeecicle</td>
@@ -87,10 +87,10 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>Sete Ambiental</td>
-                        <td>764</td>
-                        <td>545</td>
+                        <td>843</td>
+                        <td>620</td>
                         <td>17</td>
-                        <td>25.491,419</td>
+                        <td>35.630,687</td>
                         <td>609,600</td>
                     </tr>
                     <tr>
@@ -103,10 +103,10 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>Zero Impacto</td>
-                        <td>73</td>
-                        <td>379</td>
+                        <td>85</td>
+                        <td>433</td>
                         <td>32</td>
-                        <td>39.125,605</td>
+                        <td>36.095,259</td>
                         <td>29.497,159</td>
                     </tr>
                     <tr>
@@ -119,11 +119,11 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <th>T O T A I S</th>
-                        <th>1.785</th>
-                        <th>4.616</th>
-                        <th>1.872</th>
-                        <th>490.593,545</th>
-                        <th>2.382.327,515</th>
+                        <th>1.964</th>
+                        <th>4.997</th>
+                        <th>1.979</th>
+                        <th>528.557,956</th>
+                        <th>2.495.201,544</th>
                     </tr>
                 </thead>
                 <tbody>
