@@ -14,8 +14,7 @@ import PlanilhaM from "components/PlanilhaM";
 import BarReciclMensal from "components/BarReciclMensal";
 import PlanilhaRcb from "components/PlanilhaRcb";
 import BarRecbMensal from "components/BarRecbMensal";
-import MetaR from "components/MetaR";
-import MetaV from "components/MetaV";
+
 
 function App() {
   return (
