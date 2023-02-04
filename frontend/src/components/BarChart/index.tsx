@@ -12,12 +12,12 @@ const BarChart = () => {
     
     const mockData = {
         labels: {
-            categories: ['BDPWaste', 'Codel', 'Ecobras', 'Ecodescarte', 'EcoTI - BA', 'EcoTI - SE', 'Natal', 'Reciclo', 'Reeecicle', 'Sete Ambiental', 'WEEE', 'Zero Impacto']
+            categories: ['BDPWaste', 'Codel', 'Ecobras', 'Ecodescarte', 'EcoTI - BA', 'EcoTI - SE', 'Natal', 'Reciclo', 'Reeecicle', 'RFR Reciclagem' , 'Sete Ambiental', 'WEEE', 'Zero Impacto']
         },
-        series: [
+            series: [
             {
                 name: "Ton Reciclados",
-                data: [0, 77.808, 46.304, 0, 9.459, 25.501, 1335.220, 2004.127, 0.184, 0.610, 0, 72.005]                  
+                data: [0, 85.148, 46.304, 0, 9.459, 25.501, 1355.667, 2089.971, 0.184, 2487.100, 0.610, 0, 72.005]                  
             }
         ]
     };

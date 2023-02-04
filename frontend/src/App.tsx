@@ -36,22 +36,7 @@ function App() {
           </div>
         </div>
 
-        <h3 className="text-center text-primary py-3">Atingimento das Metas 2022</h3>
-
-        <div className="row px-3">
-
-          <div className="col-sm-6">
-            <h4 className="text-center text-secondary">Novos Recicladores na Plataforma</h4>
-            <h5 className="text-center text-secondary">(Meta = 14)</h5>
-            <MetaR />
-          </div>
-          <div className="col-sm-6">
-            <h4 className="text-center text-secondary">Volume de REEE coletado</h4>
-            <h5 className="text-center text-secondary">(Meta = 7.700.000 Kg)</h5>
-            <MetaV />
-          </div>
-        </div>
-
+   
         <h3 className="text-center text-primary py-3">Volumes Recebidos/Processados</h3>
         
         <div className="row px-3">
