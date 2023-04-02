@@ -14,19 +14,19 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>BDPWaste</td>
-                        <td>2</td>
-                        <td>11</td>
+                        <td>3</td>
+                        <td>12</td>
                         <td>0</td>
                         <td>331,974</td>
                         <td>0</td>
                     </tr>
                     <tr>
                         <td>Codel</td>
-                        <td>206</td>
-                        <td>357</td>
-                        <td>757</td>
-                        <td>16.477,025</td>
-                        <td>90.949,059</td>
+                        <td>228</td>
+                        <td>377</td>
+                        <td>786</td>
+                        <td>16.017,211</td>
+                        <td>100.778,802</td>
                     </tr>
                     <tr>
                         <td>Ecobras</td>
@@ -62,19 +62,19 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>Natal</td>
-                        <td>515</td>
-                        <td>3.152</td>
-                        <td>498</td>
-                        <td>169.841,419</td>
-                        <td>1.423.387,939</td>
+                        <td>520</td>
+                        <td>3.236</td>
+                        <td>508</td>
+                        <td>155.166,729</td>
+                        <td>1.533.557,773</td>
                     </tr>
                     <tr>
                         <td>Reciclo</td>
-                        <td>1.217</td>
-                        <td>2.255</td>
-                        <td>1.585</td>
-                        <td>61.916,857</td>
-                        <td>2.182.866,970</td>
+                        <td>1.289</td>
+                        <td>2.329</td>
+                        <td>1.638</td>
+                        <td>95.462,483</td>
+                        <td>2.288.199,112</td>
                     </tr>                    
                     <tr>
                         <td>Reeecicle</td>
@@ -93,10 +93,10 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>Sete Ambiental</td>
-                        <td>1.109</td>
-                        <td>879</td>
+                        <td>1.149</td>
+                        <td>920</td>
                         <td>17</td>
-                        <td>92.322,922</td>
+                        <td>135.193,063</td>
                         <td>609,600</td>
                     </tr>
                     <tr>
@@ -110,9 +110,9 @@ const DataTable = () => {
                     <tr>
                         <td>Zero Impacto</td>
                         <td>85</td>
-                        <td>796</td>
+                        <td>839</td>
                         <td>81</td>
-                        <td>78.818,120</td>
+                        <td>87.725,763</td>
                         <td>80.763,105</td>
                     </tr>
                     <tr>
@@ -125,11 +125,11 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <th>T O T A I S</th>
-                        <th>3.256</th>
-                        <th>7.914</th>
-                        <th>3.369</th>
-                        <th>670.372,669</th>
-                        <th>9.333.765,074</th>
+                        <th>3.395</th>
+                        <th>8.176</th>
+                        <th>3.461</th>
+                        <th>740.561,575</th>
+                        <th>9.559.096,993</th>
                     </tr>
                 </thead>
                 <tbody>
