@@ -42,7 +42,7 @@ function App() {
         <div className="row px-3">
 
           <div className="col-sm-12">
-            <PlanilhaRecebido />
+            <PlanilhaDestinado />
           </div>
         </div>
 
@@ -53,10 +53,10 @@ function App() {
           </div>
         </div>
         
-        <div className="row px-3">SS
+        <div className="row px-3">
 
           <div className="col-sm-12">
-            <PlanilhaDestinado />
+            <PlanilhaRecebido />
           </div>
         </div>
 
