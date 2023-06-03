@@ -9,7 +9,7 @@ const DataTable = () => {
                         <th>OT's</th>
                         <th>OS's</th>
                         <th>OD's</th>
-                        <th>Estoque em 30/04/23 (Kg)</th>
+                        <th>Estoque em 31/05/23 (Kg)</th>
                         <th>Peso Reciclado (Kg)</th>                        
                     </tr>
                     <tr>
