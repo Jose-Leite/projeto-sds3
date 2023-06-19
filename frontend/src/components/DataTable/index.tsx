@@ -86,10 +86,10 @@ const DataTable = () => {
                     </tr><tr>
                         <td>RFR Reciclagem</td>
                         <td>0</td>
-                        <td>22</td>
-                        <td>460</td>
+                        <td>24</td>
+                        <td>609</td>
                         <td>0,000</td>
-                        <td>11.618.140,000</td>
+                        <td>12.299.630,000</td>
                     </tr>
                     <tr>
                         <td>Sete Ambiental</td>
@@ -126,10 +126,10 @@ const DataTable = () => {
                     <tr>
                         <th>T O T A I S</th>
                         <th>3.628</th>
-                        <th>8.700</th>
-                        <th>3.870</th>
+                        <th>8.702</th>
+                        <th>4.019</th>
                         <th>881.732,808</th>
-                        <th>15.766.526,720</th>
+                        <th>16.597.436,720</th>
                     </tr>
                 </thead>
                 <tbody>
