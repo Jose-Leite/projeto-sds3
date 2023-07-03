@@ -22,11 +22,11 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>Codel</td>
-                        <td>249</td>
-                        <td>410</td>
-                        <td>871</td>
-                        <td>25.872,492</td>
-                        <td>108.211,245</td>
+                        <td>258</td>
+                        <td>422</td>
+                        <td>882</td>
+                        <td>29.819,243</td>
+                        <td>109.743,343</td>
                     </tr>
                     <tr>
                         <td>Ecobras</td>
@@ -62,19 +62,19 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>Natal</td>
-                        <td>521</td>
-                        <td>3.396</td>
-                        <td>517</td>
-                        <td>210.957,831</td>
-                        <td>1.583.484,786</td>
+                        <td>527</td>
+                        <td>3.448</td>
+                        <td>525</td>
+                        <td>173.802,411</td>
+                        <td>1.653.930,096</td>
                     </tr>
                     <tr>
                         <td>Reciclo</td>
-                        <td>1.428</td>
-                        <td>2.492</td>
-                        <td>1.727</td>
-                        <td>121.083,247</td>
-                        <td>2.443.289,383</td>
+                        <td>1.498</td>
+                        <td>2.560</td>
+                        <td>1.774</td>
+                        <td>101.823,127</td>
+                        <td>2.535.031,403</td>
                     </tr>                    
                     <tr>
                         <td>Reeecicle</td>
@@ -93,10 +93,10 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <td>Sete Ambiental</td>
-                        <td>1.219</td>
-                        <td>988</td>
+                        <td>1.257</td>
+                        <td>1.025</td>
                         <td>17</td>
-                        <td>188.649,383</td>
+                        <td>216.379,923</td>
                         <td>609,600</td>
                     </tr>
                     <tr>
@@ -110,9 +110,9 @@ const DataTable = () => {
                     <tr>
                         <td>Zero Impacto</td>
                         <td>87</td>
-                        <td>929</td>
-                        <td>82</td>
-                        <td>83.813,529</td>
+                        <td>981</td>
+                        <td>83</td>
+                        <td>98.599,665</td>
                         <td>80.763,105</td>
                     </tr>
                     <tr>
@@ -125,11 +125,11 @@ const DataTable = () => {
                     </tr>
                     <tr>
                         <th>T O T A I S</th>
-                        <th>3.628</th>
-                        <th>8.702</th>
-                        <th>4.019</th>
-                        <th>881.732,808</th>
-                        <th>16.597.436,720</th>
+                        <th>3.751</th>
+                        <th>8.923</th>
+                        <th>4.086</th>
+                        <th>871.420,665</th>
+                        <th>16.761.156,148</th>
                     </tr>
                 </thead>
                 <tbody>
